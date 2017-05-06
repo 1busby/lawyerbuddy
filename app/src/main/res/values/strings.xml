@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LawyerBuddy</string>
+    <string name="action_settings">Settings</string>
+    <string name="translation_label">Translation:</string>
+    <string name="translate">translate</string>
+    <string name="input_hint">enter text</string>
+    <string name="target_language">Target Language</string>
+    <string name="spanish">Spanish</string>
+    <string name="french">French</string>
+    <string name="italian">Italian</string>
+    <string name="microphone">Microphone</string>
+    <string name="play">Play</string>
+
+    <string name="speech_text_username">b23f495b-8f11-4fa9-8a03-b6aa53a1a7d1</string>
+    <string name="speech_text_password">yvWjO5sGogyG</string>
+
+    <string name="text_speech_username">124155ef-4a3b-4275-9936-9d7209c754bf</string>
+    <string name="text_speech_password">DqJoc08XgaHC</string>
+
+    <string name="language_translation_username">5ece076a-a4b9-42bf-8127-d538be03d417</string>
+    <string name="language_translation_password">RLCxKQK0OReH</string>
+</resources>
